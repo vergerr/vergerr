@@ -1,4 +1,2 @@
 - 👋 Hi,
-- 👀 Here, I’m looking to apply some design pattern or testing new version of C# 
-
-
+- 👀 You will find small personal projects that help me apply new features in .NET as well as create tools to assist me in learning.
